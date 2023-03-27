@@ -1,1 +1,1 @@
-first readme in this directory
+This is a readme for a lx low level programming
