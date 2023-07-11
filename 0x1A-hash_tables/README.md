@@ -1,1 +1,1 @@
-oballer and abel knows
+first readme as it concerns the hash tables
